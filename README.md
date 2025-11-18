@@ -369,3 +369,4 @@ Usa layouts de grafo do NetworkX (nx.spring_layout, nx.circular_layout, etc.) pa
 Usa seaborn/matplotlib para histogramas, box plots e heatmaps (não são algoritmos de grafo, são de visualização/estatística).
 Se você quiser, posso pegar um exemplo pequeno de grafo (tipo 6–8 nós) e te mostrar, passo a passo, como cada uma dessas métricas se comporta nesse exemplo, ou explicar matematicamente algum algoritmo específico (por exemplo, aprofundar em PageRank ou Louvain).
 
+https://www.canva.com/design/DAG5ARA-fNk/rEr4Mo_hgfrfiscPHNuKtg/edit
